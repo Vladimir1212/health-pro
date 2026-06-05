@@ -17,4 +17,4 @@ Responsive landing page based on a Figma design.
 - Contact bar and footer
 
 ## Live Demo
-Add GitHub Pages link here.
+https://vladimir1212.github.io/health-pro/
